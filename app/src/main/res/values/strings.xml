@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AgeInHours</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="in_hours">IN HOURS</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="_01_01_2000">01.01.2000</string>
+    <string name="selected_date">SELECTED DATE</string>
+    <string name="_1000000">1000000</string>
+    <string name="in_hours_till_date">In Hours till date</string>
+</resources>
